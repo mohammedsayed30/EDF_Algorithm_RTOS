@@ -1,0 +1,1 @@
+This project demonstrates the implementation of the Earliest Deadline First (EDF) scheduling algorithm using FreeRTOS. EDF is a real-time scheduling algorithm where tasks are dynamically prioritized based on their deadlines, ensuring that tasks with the earliest deadlines are executed first.
